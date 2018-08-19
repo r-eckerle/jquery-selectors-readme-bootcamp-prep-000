@@ -6,3 +6,4 @@ function paragraphSelector() {
   
   return paragraphs
 }
+
