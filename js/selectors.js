@@ -12,5 +12,5 @@ function lastImageSelector() {
 }
 
 function divSelector() {
-  
+  return $('.pics')
 }
