@@ -1,5 +1,5 @@
 // declare your functions here...
-Function paragraphSelector() {
+function paragraphSelector() {
   var paragraphs = []
   
   paragraphs = $('p')
