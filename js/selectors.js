@@ -7,3 +7,6 @@ function paragraphSelector() {
   return paragraphs
 }
 
+function lastImageSelector() {
+  
+}
